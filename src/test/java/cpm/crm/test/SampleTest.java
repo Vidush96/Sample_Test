@@ -25,4 +25,14 @@ public class SampleTest {
 		System.out.println("execute deleteContact");
 	}
 
+	
+	@Test
+	public void new5() {
+		System.out.println("execute new5");
+	}
+	
+	@Test
+	public void new6() {
+		System.out.println("execute new6");
+	}
 }
